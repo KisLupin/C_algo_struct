@@ -75,6 +75,6 @@ int main()
   deleteNode(&head, 3);
   printf("\n Created Linked list is: "); 
   printList(head); 
-  
+
   return 0; 
 } 
